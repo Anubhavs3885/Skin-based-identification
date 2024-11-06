@@ -4,3 +4,4 @@ extract the dataset, keep the Hands folder and HandInfo.xlsx file in same locati
 use the created dataset with main.py to get the results of the classification.
 main2.py will give slightly better results
 There is also a smaller dataset for lower compatibilty requirements. In the drive this dataset is not zipped one can use it as it is.
+myscript.py contains the new and modified approach and it can be run independently just with the dataset and xlsx file
